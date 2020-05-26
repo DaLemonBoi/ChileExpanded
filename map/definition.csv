@@ -1,3 +1,4 @@
+# This file give provinces their province ID and other variables such as is this land or water, is this coastal, what type of terrain is there, and which continent is it on? R;G;B;Province ID;[land sea lake];terrain;continent. See https://www.reddit.com/r/hoi4/comments/5t8u25/problem_with_custom_provinces/ddlpbrv/ Modded in provinces are at the bottom of the but please note that some of these colors have been reused and not moved to the bottom.
 0;0;0;0;land;false;unknown;0
 1;230;81;119;lake;false;lakes;7
 2;0;0;55;land;false;forest;1
