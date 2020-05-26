@@ -9,7 +9,7 @@ Normally you can use the Steam Workshop to automatically download the mod but un
 1. Clone the github repo.
 2. Unzip then copy the folder to your documents\paradox interactive\hearts of iron iv\mod
 3. Cut chile.mod out of the repo folder and into the mod folder above.
-4. (Optional) Delete README.md and UNLICENSE from the repo folder. Your game should work fine if they are still there but this is not yet tested. If you experience errors please try this step.
+4. (Optional) Delete README.md, UNLICENSE, AUTHORS , CONTRIBUTING and from the repo folder. Your game should work fine if they are still there but this is not yet tested. If you experience errors please try this step.
 
 The mod should now be available to select from in the Hearts of Iron IV launcher.
 
@@ -21,7 +21,7 @@ cd ~/Downloads
 git clone https://github.com/DaLemonBoi/ChileExpanded
 unzip ChileExpanded
 cp ChileExpanded/chile.mod `~/.local/share/Paradox Interactive/Hearts of Iron IV/mod` && cp -r ChileExpanded `~/.local/share/Paradox Interactive/Hearts of Iron IV/mod`
-rm `~/.local/share/Paradox Interactive/Hearts of Iron IV/mod/README.md` && rm `~/.local/share/Paradox Interactive/Hearts of Iron IV/mod/UNLICENSE`
+rm `~/.local/share/Paradox Interactive/Hearts of Iron IV/mod/README.md` && rm `~/.local/share/Paradox Interactive/Hearts of Iron IV/mod/UNLICENSE` && rm `~/.local/share/Paradox Interactive/Hearts of Iron IV/mod/AUTHORS && rm `~/.local/share/Paradox Interactive/Hearts of Iron IV/mod/CONTRIBUTING
 ```
 
 The mod should now be available to select from in the Hearts of Iron IV launcher.
