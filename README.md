@@ -11,7 +11,7 @@ Normally you can use the Steam Workshop to automatically download the mod but un
 3. Cut chile.mod out of the repo folder and into the mod folder above.
 4. (Optional) Delete README.md and UNLICENSE from the repo folder. Your game should work fine if they are still there but this is not yet tested. If you experience errors please try this step.
 
-The mod should now be available to select when starting up Hearts of Iron IV.
+The mod should now be available to select from in the Hearts of Iron IV launcher.
 
 #### Linux
 
@@ -24,7 +24,7 @@ cp ChileExpanded/chile.mod `~/.local/share/Paradox Interactive/Hearts of Iron IV
 rm `~/.local/share/Paradox Interactive/Hearts of Iron IV/mod/README.md` && rm `~/.local/share/Paradox Interactive/Hearts of Iron IV/mod/UNLICENSE`
 ```
 
-The mod should now be available to select when starting up Hearts of Iron IV.
+The mod should now be available to select from in the Hearts of Iron IV launcher.
 
 ## Contact me
 
