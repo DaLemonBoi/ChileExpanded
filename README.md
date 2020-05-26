@@ -9,7 +9,7 @@ Normally you can use the Steam Workshop to automatically download the mod but un
 1. Clone the github repo.
 2. Unzip then copy the folder to your documents\paradox interactive\hearts of iron iv\mod
 3. Cut chile.mod out of the repo folder and into the mod folder above.
-4. (Optional) Delete README.md and UNLICENSE from the repo folder. Your game should work fine if they are still there but this is not yet tested. If you expierence errors please try this step.
+4. (Optional) Delete README.md and UNLICENSE from the repo folder. Your game should work fine if they are still there but this is not yet tested. If you experience errors please try this step.
 
 The mod should now be available to select when starting up Hearts of Iron IV.
 
