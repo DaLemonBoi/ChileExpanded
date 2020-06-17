@@ -1,12 +1,38 @@
-All authors must add their username to this list and the following waiver of copyright below commited and pushed from their account either via push request or directly commited if they have sufficient permissions:
-
-"I hereby waive all copyright of code or otherwise works added to ChileExpanded as they are to be under The Unlicense. See more info here: <https://unlicense.org/>"
+All authors must sign this file here <https://unlicense.org/WAIVER> with "gpg --no-version --armor --sign WAIVER" and add the contents of it to the list with a rsa4096 GPG key with their @username as the name and the comment as "I dedicate any and all copyright interest in this software to the public domain. I make this dedication for the benefit of the public at large and to the detriment of my heirs and successors. I intend this dedication to be an overt act of relinquishment in perpetuity of all present and future rights to this software under copyright law." commited and pushed from their account either via push request or directly commited if they have sufficient permissions.  <https://help.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key>
 
 ########### Author list ###########
 
 @DaLemonBoi
 
-I hereby waive all copyright of code or otherwise works added to ChileExpanded as they are to be under The Unlicense. See more info here: <https://unlicense.org/>
+-----BEGIN PGP MESSAGE-----
+
+owGVU3tQVFUYX16GlxSQhOlhHsQYGlfAIB+YjEgG64gQLGBNONy99+zugftY72OX
+LR4WlMQArtiDUegxA4KMMoGhaCmWOhgjM4iiMKuZOAyD0PgICyeXOvcuqNVf/bEz
+e875vu/3+q5jnpfG16O/I3DXUGzMgMchr0LDnOwEXdbG9G1jemcYSOQtdgGZzBKw
+kcgKBWDkBfCaWZIscVFRsIBkLQyM5AVTlEXg8yAliVFmyDD8chsvMHQ8QegADWlE
+kRIEJGfHPxqQDAOoR2MRJ0EBisofIJmRCETeKNlIAQKJxxeQsMgGBlGA5lkScZFA
+B1gyH7pLZ0YjnlNp4WpggBw0IgnwRvU400xKBEMKJqjiu+fiZklALOTUWtYOzBAJ
+ologyhQFRZEXRAVOIah0YUDiCUA8xaDMAzx2RQIkpc4RIIO47TISzepkrMkCBQuU
+ZCTZlXesnbBgucqjAmWUJRlLVa0Q3cyetEDmaGz5Y7MY0hZJEHp+Rqo4yz2f420M
+pGcEGjAJaNQqDxTPYZUGWaGMxeGREOFegeDxQMRhOjgTWTLzAsR9dsBCgI1U6jAw
+zhszFHgWWASEr3Gm+SKwmRFlxr6YSSsksHZkRLhMaSEZkXfH+Mh4d2ru2HEFx0vY
+XYOyKIpYiiERKxJYw2OJmASvMAQWUpAQFP+HXk5Bp5EV0TLJaIFBFhGHc9RisSaS
+Q++qwWmBSUmMU/LRKmLdaPikRGQmRXVP/7ufBJbxb0O1KrwOkEYjElhMkpTwyYbw
+gitK1UX9RwOhlihOqKg2JOJAOEpmDRiDjiQ+9ozx1nj4ahYFh3o/vB5Q/XlRVprf
+qs/o2e/Tx1P5KjXE3IDZm2tj/g/nas4VNk/l6gitfHCkc831A2FDk8fn6zwO1y4e
+vL3fq82wzjjCxzmclS2ujszSsqapnKY/d+14pTVh7OqyrMFbMm26/8dK3xWf1sC9
+7Cix8nzsye5rRY2nj/QOn7pkKZo49nb9O4c3RdQYB3oL1h9ru1/emsQYjvtQWz2f
+DaWsdTdOtDd+cPOr9zPu6BtbfvsxcbkjvCtJaLAtOL3won5U/0WcMJB+s23zweRm
+iVu98cPRzBFdbIJrKLzqhI99juw3WHqgo8nJBBBXcvLe+HY49dLkjqNRjt1ByXvm
+c7ULf/rSZskpNXEZvzurbqVVPJDquoHjxraCtgvZl9syC0NiL6y7E/qMcad26IzL
+FVa8N6PYv2dfiyt+KRUQkbpvoORy5ZHos/UpUfmdS5q3O6eXLc1Nzp6Ise6fLMsL
+3FKnC3rxk1/iU6/W6JFff9zJXBbKes1HL92taygadhY4mvMmxnN6t0RXBLzwVur0
+z2Vrb1+Ziv7uh7TaVxc8/41/Z09ISknxorFc6an0xubgTiZYTPcm22O7vj9ETmwq
+aU15L8KxdQM1zn7dXX+vtuFuT/mckPR5Gx7stL7cHl55z1Z98el8akmJxxlZ3kOP
+rxrd3e6i+/pzVk9Xv9nfKwWW+448N+6fGbQ4cf3mtb/+dVTPdnFrKvpPvX7ON6Wq
+L+jstHbofGNf0oqO+JS/AQ==
+=pYGZ
+-----END PGP MESSAGE-----
 
 @Vizeck
 
