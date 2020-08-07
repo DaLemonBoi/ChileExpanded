@@ -28,4 +28,4 @@ The mod should now be available to select from in the Hearts of Iron IV launcher
 
 ## Contact me
 
-To contact me either DM me on discord or twitter using Slvt#3013 and @TheRealLemonBoi respectively. Each are open to non-friends.
+To contact me either DM me on discord or twitter using `Mommy Lemon#3013` and `@TheRealLemonBoi` respectively. Each are open to non-friends.
