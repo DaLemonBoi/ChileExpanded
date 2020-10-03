@@ -1,3 +1,4 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 # ChileExpanded
 A HOI4 mod expanding on chile, mainly focusing on the anarcho-communism aspect.
 
